@@ -1,0 +1,103 @@
+#### Create Dockerfile into the project root directory without extension
+#### write below code
+    =======================================
+    ========= for docker default ==========
+    =======================================
+        WORKDIR /src/app
+        COPY package*.json ./
+        EXPOSE 3000
+
+        RUN npm ci
+        COPY . /src/app
+        CMD ["npm", "start"]
+
+    =======================================   
+    ======= for docker-compose code =======
+    =======================================
+        FROM node:14-alpine as base
+
+        WORKDIR /src/app
+        COPY package*.json ./
+        EXPOSE 3000
+
+        FROM base as production
+        ENV NODE_ENV=production
+        RUN npm ci
+        COPY . /
+        CMD ["node", "bin/www"]
+
+        FROM base as dev
+        ENV NODE_ENV=development
+        RUN npm install -g nodemon && npm install
+        COPY . /
+        CMD ["nodemon", "bin/www"]
+
+
+#### Create .dockerignore file. write below code
+    .dockerignore
+    node_modules
+    npm-debug.log
+    Dockerfile
+    .git
+    .gitignore
+    .npmrc
+
+
+#### Add Docker Compose and write below code
+    version: '3.8'
+    services:
+    web:
+        build:
+        context: ./
+        target: dev
+        volumes:
+        - .:/src
+        command: npm run dev
+        ports:
+        - '3001:3001'
+        environment:
+        NODE_ENV: development
+        DEBUG: nodejs-docker-express:*
+
+
+#### docker general command
+    # show docker image list
+        docker images
+
+    # buid with docker (<your username>/app-name)
+        docker build . -t sthossan/viberchatex-img:1.0
+
+    # image run
+    # -p flag redirects a public port to a private port inside the container
+    # -d runs the container in detached mode, leaving the container running in the background
+        docker run -p 8001:8080 -d sthossan/viberchatex-img:1.0
+    OR 
+        docker run --name viberchatex-con -d -p 8001:8080 viberchatex-img:1.0
+    OR
+        docker run --name viberchatex-con -d -p 8001:8080 sthossan/viberchatex-img:1.0
+
+    # Get container ID
+        docker ps
+        docker ps -a
+
+    # Print app output
+        docker logs <container id>
+
+    # Example
+    # Running on http://localhost:8001
+
+    # Remove the stopped container and all of the images
+    # including unused or dangling images, with the following command:
+        docker system prune -a
+
+#### docker compose command
+        docker-compose build
+        docker-compose up
+    OR
+    # doing frequent changes to Dockerfile for testing then use
+        docker-compose up --build
+
+    # This removes all volumes
+    # before starting the containers again with (docker-compose up).
+        docker-compose down -v
+

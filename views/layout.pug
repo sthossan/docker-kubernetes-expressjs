@@ -1,0 +1,22 @@
+doctype html
+html(lang='en')
+    include common/head.pug
+    +head('Shadhin Music')
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    body
+        .custom-navbar.row
+            .col-sm-12.col-md-6.col-lg-6.pt-2
+                .navbar-brand
+                    img(src="/images/shadhin.png", alt="Shadhin Music")
+                    p Shadhin Music
+                    
+            .col-sm-12.col-md-6.col-lg-6.pt-md-3.pt-lg-3
+                .search-box
+                    <input class="input-field" type="text"  placeholder="Search"> 
+                    <i class="fa fa-search fa-lg icon"></i>
+                
+                
+        block content
+
+        include common/footer.pug
+        +footer()

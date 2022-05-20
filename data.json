@@ -1,0 +1,647 @@
+﻿{
+    "Audio": [
+        {
+            "Id": "10839",
+            "Name": "Brittalpona",
+            "Artist": "Tahsan",
+            "Duration": "3:47",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AlbumPreviewImageFile/Kathopokathon_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AudioMainFile/Brittalpona_Tahsan.mp3"
+        },
+        {
+            "Id": "10999",
+            "Name": "Premataal",
+            "Artist": "Tahsan",
+            "Duration": "4:27",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AlbumPreviewImageFile/KritodasherNirban_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AudioMainFile/Premataal_Tahsan.mp3"
+        },
+        {
+            "Id": "1533",
+            "Name": "Poth Chola",
+            "Artist": "Artcell",
+            "Duration": "7:01",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AlbumPreviewImageFile/Onnosomoy_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AudioMainFile/PothChola_Artcell.mp3"
+        },
+        {
+            "Id": "16734",
+            "Name": "Aalo",
+            "Artist": "Tahsan",
+            "Duration": "4:34",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AlbumPreviewImageFile/Ichche_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AudioMainFile/Aalo_Tahsan.mp3"
+        },
+        {
+            "Id": "16953",
+            "Name": "Tumi Ki Shara Dibe",
+            "Artist": "Black",
+            "Duration": "4:12",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AlbumPreviewImageFile/Rock202_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AudioMainFile/TumiKiSaraDibe_Black.mp3"
+        },
+        {
+            "Id": "94839",
+            "Name": "Radha Rani",
+            "Artist": "Oyshee",
+            "Duration": "5:39",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AlbumPreviewImageFile/RadhaRani_Oyshee_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AudioMainFile/RadhaRani_Oyshee.mp3"
+        },
+        {
+            "Id": "95280",
+            "Name": "Mon Nodi",
+            "Artist": "Oyshee",
+            "Duration": "5:20",
+            "LabelName": "MR Bestmedia",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AlbumPreviewImageFile/MonNodi_Oyshee_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AudioMainFile/MonNodi_Oyshee.mp3"
+        },
+        {
+            "Id": "95656",
+            "Name": "Premo Bashi",
+            "Artist": "Oyshee",
+            "Duration": "4:02",
+            "LabelName": "Mahmudul Kabir Murad",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AlbumPreviewImageFile/PremoBashi_Oyshee_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AudioMainFile/PremoBashi_Oyshee.mp3"
+        },
+        {
+            "Id": "95907",
+            "Name": "Kashfuler Shohor Dekha",
+            "Artist": "Shironamhin",
+            "Duration": "5:07",
+            "LabelName": "Shironamhin",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AlbumPreviewImageFile/KashfulerShohorDekha_Shironamhin_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AudioMainFile/KashfulerShohorDekha_Shironamhin.mp3"
+        },
+        {
+            "Id": "95925",
+            "Name": "Mone Loy Abar Sei",
+            "Artist": "Oyshee And Biplob Saha",
+            "Duration": "5:00",
+            "LabelName": "Media Tech",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AlbumPreviewImageFile/MoneLoyAbarSei_OysheeAndBiplobSaha_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AudioMainFile/MoneLoyAbarSei_OysheeAndBiplobSaha.mp3"
+        },
+        {
+            "Id": "95955",
+            "Name": "Otit",
+            "Artist": "Arman Alif",
+            "Duration": "4:11",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AlbumPreviewImageFile/Otit_ArmanAlif_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/AudioMainFile/Otit_ArmanAlif.mp3"
+        }
+    ],
+    "Video": [
+        {
+            "Id": "3056",
+            "Name": "Danakata Pori",
+            "Artist": "Nancy And Milon",
+            "Duration": "4:16",
+            "LabelName": "CD Choice",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/DanaKataPori_NancyAndMilon_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/DanaKataPori_NancyAndMilon.mp4"
+        },
+        {
+            "Id": "5628",
+            "Name": "Jokhon Tokhon",
+            "Artist": "Lutfor Hasan",
+            "Duration": "5:36",
+            "LabelName": "CD Choice",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/JokhonTokhon_LutforHasan_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/JokhonTokhon_LutforHasan.mp4"
+        },
+        {
+            "Id": "6850",
+            "Name": "Showachan Pakhi",
+            "Artist": "Bari Siddiqui",
+            "Duration": "5:01",
+            "LabelName": "Sangeeta",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/ShoachanPakhi_BariSiddiqui_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/ShoachanPakhi_BariSiddiqui.mp4"
+        },
+        {
+            "Id": "8763",
+            "Name": "Amar Shohor",
+            "Artist": "Sumona Bordhon Featuring Lutfor Hasan",
+            "Duration": "5:07",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/AmarShohor_LutforHasan_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/AmarShohor_LutforHasan.mp4"
+        },
+        {
+            "Id": "9294",
+            "Name": "Rodela Dupur",
+            "Artist": "Bappa Mazumder Featuring Tahsan And Mithila",
+            "Duration": "4:20",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/RodelaDupur_TahsanAndMithila_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/RodelaDupur_TahsanAndMithila.mp4"
+        },
+        {
+            "Id": "9510",
+            "Name": "Obonil",
+            "Artist": "Tahsan Featuring Bappa Mazumder And Kona",
+            "Duration": "5:18",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/Obonil_BappaMozumderAndKona_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/Obonil_BappaMozumderAndKona.mp4"
+        },
+        {
+            "Id": "10874",
+            "Name": "Keyapata",
+            "Artist": "Topu And Nancy",
+            "Duration": "4:22",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/Keyapata_TopuAndNancy_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/Keyapata_TopuAndNancy.mp4"
+        },
+        {
+            "Id": "17661",
+            "Name": "Tumi Janona",
+            "Artist": "Habib Wahid And Nancy",
+            "Duration": "5:04",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/TumiJanona_HabibWahidAndNancy_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/TumiJanona_HabibWahidAndNancy.mp4"
+        },
+        {
+            "Id": "28064",
+            "Name": "Chholonay",
+            "Artist": "Tanjib Sarowar And Kona",
+            "Duration": "4:40",
+            "LabelName": "CD Choice",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/Chholonay_TanjibSarowarAndKona_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/Chholonay_TanjibSarowarAndKona.mp4"
+        },
+        {
+            "Id": "28182",
+            "Name": "Ke Koto Duray",
+            "Artist": "Imran And Kona",
+            "Duration": "6:19",
+            "LabelName": "CMV",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/KeKotoDure_ImranAndKona_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/KeKotoDure_ImranAndKona.mp4"
+        },
+        {
+            "Id": "88171",
+            "Name": "Majhe Majhe",
+            "Artist": "Bappa Mazumder",
+            "Duration": "3:27",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/MajheMajhe_BappaMazumder_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/MajheMajhe_BappaMazumder.mp4"
+        },
+        {
+            "Id": "90001",
+            "Name": "Ayna Diye Ghor Bedhechi",
+            "Artist": "Lutfor Hasan",
+            "Duration": "4:45",
+            "LabelName": "Dhruba Music Station",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/AynaDiyeGhorBedhechi_LutforHasan_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/AynaDiyeGhorBedhechi_LutforHasan.mp4"
+        },
+        {
+            "Id": "91138",
+            "Name": "Kotota Je Valobashi",
+            "Artist": "Kazi Shuvo And Puja",
+            "Duration": "4:34",
+            "LabelName": "Soundtek",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/KototaJeValobashi_KaziShuvoAndPuja_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/KototaJeValobashi_KaziShuvoAndPuja.mp4"
+        },
+        {
+            "Id": "92127",
+            "Name": "Chuye Dekho",
+            "Artist": "Kazi Shuvo And Shornaly",
+            "Duration": "4:10",
+            "LabelName": "CD Choice Music",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/ChuyeDekho_KaziShuvoAndShornaly_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/ChuyeDekho_KaziShuvoAndShornaly.mp4"
+        },
+        {
+            "Id": "92170",
+            "Name": "Tumi Chara R Kew Nai",
+            "Artist": "Kazi Shuvo And Ayesha",
+            "Duration": "5:03",
+            "LabelName": "CD Choice Music",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/TumiCharaRKewNai_KaziShuvoAndAyesha_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/TumiCharaRKewNai_KaziShuvoAndAyesha.mp4"
+        },
+        {
+            "Id": "92221",
+            "Name": "Har Manbo Na",
+            "Artist": "Belal Khan And Konal And Oyshee And Marcell And Lutfor Hasan",
+            "Duration": "3:56",
+            "LabelName": "BK Production",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/HarManboNa_BelalKhanAndKonalAndOysheeAndMarcellAndLutforHasan_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/HarManboNa_BelalKhanAndKonalAndOysheeAndMarcellAndLutforHasan.mp4"
+        },
+        {
+            "Id": "93434",
+            "Name": "Jani Pabona",
+            "Artist": "Imran And Sithi",
+            "Duration": "5:27",
+            "LabelName": "CMV",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/JaniPabona_ImranAndSithi_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/JaniPabona_ImranAndSithi.mp4"
+        },
+        {
+            "Id": "93465",
+            "Name": "Rakhish Amar Haat Ta Dhore",
+            "Artist": "Imran And Sumona",
+            "Duration": "5:15",
+            "LabelName": "Dhruba Music Station",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/RakhishAmarHaatTaDhore_ImranAndSumona_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/RakhishAmarHaatTaDhore_ImranAndSumona.mp4"
+        },
+        {
+            "Id": "93484",
+            "Name": "Dine Dakati",
+            "Artist": "Oyshee",
+            "Duration": "2:52",
+            "LabelName": "Anupam",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/DineDakati_Oyshee_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/DineDakati_Oyshee.mp4"
+        },
+        {
+            "Id": "93697",
+            "Name": "Pran Vromora",
+            "Artist": "Oyshee",
+            "Duration": "4:06",
+            "LabelName": "Media Tech",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/PranVromora_Oyshee_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/PranVromora_Oyshee.mp4"
+        },
+        {
+            "Id": "93735",
+            "Name": "Shad Ache Shaddho Nai",
+            "Artist": "Oyshee",
+            "Duration": "5:53",
+            "LabelName": "CMV",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/ShadAcheShaddhoNai_Oyshee_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/ShadAcheShaddhoNai_Oyshee.mp4"
+        },
+        {
+            "Id": "94159",
+            "Name": "Naior",
+            "Artist": "Oyshee",
+            "Duration": "4:35",
+            "LabelName": "E-Music",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/Naior_Oyshee_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/Naior_Oyshee.mp4"
+        },
+        {
+            "Id": "94839",
+            "Name": "Radha Rani",
+            "Artist": "Oyshee",
+            "Duration": "5:39",
+            "LabelName": "G-Series",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/RadhaRani_Oyshee_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/RadhaRani_Oyshee.mp4"
+        },
+        {
+            "Id": "95866",
+            "Name": "Agun Lagaiya Dilo Kone",
+            "Artist": "Putul",
+            "Duration": "4:54",
+            "LabelName": "E-Music",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoPreview/AgunLagaiyaDiloKone_Putul_1280.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/VideoMainFile/AgunLagaiyaDiloKone_Putul.mp4"
+        }
+    ],
+    "Podcast": [
+        {
+            "Id": "3233",
+            "Name": "রিলেশন",
+            "Artist": "Shadhin Drama",
+            "Duration": "2h 22m 19s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_Relation_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_Relation.mp3"
+        },
+        {
+            "Id": "3245",
+            "Name": "শেষেরও শেষ আছে - পর্ব ০১",
+            "Artist": "Shadhin Drama",
+            "Duration": "45m 45s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_ShesheroSheshAche_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShesheroSheshAche_Part1.mp3"
+        },
+        {
+            "Id": "3246",
+            "Name": "শেষেরও শেষ আছে - পর্ব ০২",
+            "Artist": "Shadhin Drama",
+            "Duration": "55m 26s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_ShesheroSheshAche_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShesheroSheshAche_Part2.mp3"
+        },
+        {
+            "Id": "3263",
+            "Name": "ভালোবাসার অসুখ",
+            "Artist": "Shadhin Drama",
+            "Duration": "41m 31s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_ValobasharOsukh_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_ValobasharOsukh.mp3"
+        },
+        {
+            "Id": "3279",
+            "Name": "দ্যা ট্র্যাপ - পর্ব ০১",
+            "Artist": "Shadhin Drama",
+            "Duration": "47m 55s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_TheTrap_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_TheTrap_Part1.mp3"
+        },
+        {
+            "Id": "3280",
+            "Name": "দ্যা ট্র্যাপ - পর্ব ০২",
+            "Artist": "Shadhin Drama",
+            "Duration": "46m 19s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_TheTrap_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_TheTrap_Part2.mp3"
+        },
+        {
+            "Id": "3300",
+            "Name": "তারা আর ফিরে আসেনি",
+            "Artist": "Shadhin Drama",
+            "Duration": "59m 24s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_TaraArFireyAsheni_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_TaraArFireyAsheni.mp3"
+        },
+        {
+            "Id": "3317",
+            "Name": "থার্ড রিলেশন",
+            "Artist": "Shadhin Drama",
+            "Duration": "59m 24s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_ThirdRelation_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_ThirdRelation.mp3"
+        },
+        {
+            "Id": "3333",
+            "Name": "এটাই নিয়ম",
+            "Artist": "Shadhin Drama",
+            "Duration": "41m 11s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_EtaiNiyom_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_EtaiNiyom.mp3"
+        },
+        {
+            "Id": "3349",
+            "Name": "আমি জানতাম তুমি ফিরবে",
+            "Artist": "Shadhin Drama",
+            "Duration": "59m 46s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_AmiJantamTumiFirbe_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_AmiJantamTumiFirbe.mp3"
+        },
+        {
+            "Id": "3366",
+            "Name": "এক পাগলির গল্প",
+            "Artist": "Shadhin Drama",
+            "Duration": "1h 08m 28s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_EkPaglirGolpo_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_EkPaglirGolpo.mp3"
+        },
+        {
+            "Id": "3383",
+            "Name": "হাউজ নাম্বার ১০৯",
+            "Artist": "Shadhin Drama",
+            "Duration": "1h 24m 47s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_HouseNo109_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_HouseNo109.mp3"
+        },
+        {
+            "Id": "3403",
+            "Name": "তাঁহাদের কথা",
+            "Artist": "Shadhin Drama",
+            "Duration": "1h 24m 47s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_TahaderKotha_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_TahaderKotha.mp3"
+        },
+        {
+            "Id": "3422",
+            "Name": "অদ্ভুত ভালোবাসা",
+            "Artist": "Shadhin Drama",
+            "Duration": "1h 09m 01s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_OdvutValobasha_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_OdvutValobasha.mp3"
+        },
+        {
+            "Id": "3441",
+            "Name": "অতঃপর পাশ করিল",
+            "Artist": "Shadhin Drama",
+            "Duration": "59m 14s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_OtoporPashKorilo_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_OtoporPashKorilo.mp3"
+        },
+        {
+            "Id": "3461",
+            "Name": "তবে কি সবাই এক?",
+            "Artist": "Shadhin Drama",
+            "Duration": "1h 46m 42s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_TobeKiShobaiEk_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_TobeKiShobaiEk.mp3"
+        },
+        {
+            "Id": "3478",
+            "Name": "প্রেম কে না বলুন - এপিসোড ০১",
+            "Artist": "Shadhin Drama",
+            "Duration": "19m 03s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun.mp3"
+        },
+        {
+            "Id": "3493",
+            "Name": "প্রেম কে না বলুন - এপিসোড ০২",
+            "Artist": "Shadhin Drama",
+            "Duration": "30m 40s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP02_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP02.mp3"
+        },
+        {
+            "Id": "3506",
+            "Name": "প্রেম কে না বলুন - এপিসোড ০৩",
+            "Artist": "Shadhin Drama",
+            "Duration": "32m 36s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP03_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP03.mp3"
+        },
+        {
+            "Id": "3520",
+            "Name": "প্রেম কে না বলুন - এপিসোড ০৪",
+            "Artist": "Shadhin Drama",
+            "Duration": "26m 29s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP04_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP04.mp3"
+        },
+        {
+            "Id": "3536",
+            "Name": "প্রেম কে না বলুন - এপিসোড ০৫",
+            "Artist": "Shadhin Drama",
+            "Duration": "23m 56s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP05_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP05.mp3"
+        },
+        {
+            "Id": "3550",
+            "Name": "প্রেম কে না বলুন - এপিসোড ০৬",
+            "Artist": "Shadhin Drama",
+            "Duration": "26m 57s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP06_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP06.mp3"
+        },
+        {
+            "Id": "3558",
+            "Name": "প্রেম কে না বলুন - এপিসোড ০৭",
+            "Artist": "Shadhin Drama",
+            "Duration": "21m 56s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP07_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP07.mp3"
+        },
+        {
+            "Id": "3565",
+            "Name": "প্রেম কে না বলুন - এপিসোড ০৮",
+            "Artist": "Shadhin Drama",
+            "Duration": "17m 56s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP08_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP08.mp3"
+        },
+        {
+            "Id": "3581",
+            "Name": "প্রেম কে না বলুন - এপিসোড ০৯",
+            "Artist": "Shadhin Drama",
+            "Duration": "27m 39s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP09_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP09.mp3"
+        },
+        {
+            "Id": "3591",
+            "Name": "প্রেম কে না বলুন - এপিসোড ১০",
+            "Artist": "Shadhin Drama",
+            "Duration": "31m 51s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP10_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP10.mp3"
+        },
+        {
+            "Id": "3604",
+            "Name": "প্রেম কে না বলুন - এপিসোড ১১",
+            "Artist": "Shadhin Drama",
+            "Duration": "32m 04s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP11_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP11.mp3"
+        },
+        {
+            "Id": "3617",
+            "Name": "প্রেম কে না বলুন - এপিসোড ১২",
+            "Artist": "Shadhin Drama",
+            "Duration": "32m 31s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP12_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP12.mp3"
+        },
+        {
+            "Id": "3630",
+            "Name": "প্রেম কে না বলুন - এপিসোড ১৩",
+            "Artist": "Shadhin Drama",
+            "Duration": "32m 12s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP13_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP13.mp3"
+        },
+        {
+            "Id": "3643",
+            "Name": "প্রেম কে না বলুন - এপিসোড ১৪",
+            "Artist": "Shadhin Drama",
+            "Duration": "27m 04s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP14_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP14.mp3"
+        },
+        {
+            "Id": "3656",
+            "Name": "প্রেম কে না বলুন - এপিসোড ১৫",
+            "Artist": "Shadhin Drama",
+            "Duration": "27m 32s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP15_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP15.mp3"
+        },
+        {
+            "Id": "3670",
+            "Name": "প্রেম কে না বলুন - এপিসোড ১৬",
+            "Artist": "Shadhin Drama",
+            "Duration": "26m 09s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP16_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP16.mp3"
+        },
+        {
+            "Id": "3684",
+            "Name": "প্রেম কে না বলুন - এপিসোড ১৭",
+            "Artist": "Shadhin Drama",
+            "Duration": "27m 29s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP17_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP17.mp3"
+        },
+        {
+            "Id": "3698",
+            "Name": "প্রেম কে না বলুন - এপিসোড ১৮",
+            "Artist": "Shadhin Drama",
+            "Duration": "25m 58s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP18_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP18.mp3"
+        },
+        {
+            "Id": "3705",
+            "Name": "প্রেম কে না বলুন - এপিসোড ১৯",
+            "Artist": "Shadhin Drama",
+            "Duration": "25m 40s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP19_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP19.mp3"
+        },
+        {
+            "Id": "3716",
+            "Name": "প্রেম কে না বলুন - এপিসোড ২০",
+            "Artist": "Shadhin Drama",
+            "Duration": "26m 49s",
+            "LabelName": "Gakk Media",
+            "ImageUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AlbumPreview/ShadhinDrama_PremKeNaBolun_EP20_300.jpg",
+            "PlayUrl": "https://shadhinmusiccontent.sgp1.digitaloceanspaces.com/Podcast/AudioFile/ShadhinDrama_PremKeNaBolun_EP20.mp3"
+        }
+    ]
+}

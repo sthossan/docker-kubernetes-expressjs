@@ -1,0 +1,94 @@
+extends layout
+
+block content
+    ul.nav.nav-tabs.custom-nav-tabs(id="myTab" role="tablist")
+        li.nav-item(role="presentation")
+            button.nav-link.active(id="audio-tab" data-bs-toggle="tab" data-bs-target="#audio" type="button" role="tab" aria-controls="audio" aria-selected="true") Audio
+        li.nav-item(role="presentation")
+            button.nav-link(id="video-tab" data-bs-toggle="tab" data-bs-target="#video" type="button" role="tab" aria-controls="video" aria-selected="false") Video
+        li.nav-item(role="presentation")
+            button.nav-link(id="podcast-tab" data-bs-toggle="tab" data-bs-target="#podcast" type="button" role="tab" aria-controls="podcast" aria-selected="false") Podcast
+        li.nav-item(role="presentation")
+            button.nav-link(id="search-tab" data-bs-toggle="tab" data-bs-target="#search" type="button" role="tab" aria-controls="search" aria-selected="false") Search
+    
+    .tab-content.custom-tab-content(id="myTabContent")
+        .tab-pane.fade.show.active(id="audio" role="tabpanel" aria-labelledby="audio-tab")
+            .p-2
+                for item in audioObj
+                    .card.mb-2
+                        .row.no-gutters
+                            .col-5.col-md-2.col-lg-2
+                                img.card-img(src=item.ImageUrl, alt="")
+                            .col-7.col-md-10.col-lg-10
+                                .card-body
+                                    .col-12.card-body-header
+                                        p.card-text #{item.Name}
+                                        span.card-text-label #{item.Artist}
+                                    .col-9.card-bottom-left
+                                        p.card-bottom-text #{item.Duration} | #{item.LabelName}
+                                    .col-3.card-bottom-right
+                                        a(href="#", style="float:right;")
+                                            i.fa.fa-paper-plane.rotate-45-right
+        .tab-pane.fade(id="video" role="tabpanel" aria-labelledby="video-tab") 
+            .p-2
+                for item in videoObj
+                    .card.mb-2
+                        .row.no-gutters
+                            .col-5.col-md-2.col-lg-2
+                                img.card-img(src=item.ImageUrl, alt="")
+                            .col-7.col-md-10.col-lg-10
+                                .card-body
+                                    .col-12.card-body-header
+                                        p.card-text #{item.Name}
+                                        span.card-text-label #{item.Artist}
+                                    .col-9.card-bottom-left
+                                        p.card-bottom-text #{item.Duration} | #{item.LabelName}
+                                    .col-3.card-bottom-right
+                                        a(href="#", style="float:right;")
+                                            i.fa.fa-paper-plane.rotate-45-right
+        .tab-pane.fade(id="podcast" role="tabpanel" aria-labelledby="podcast-tab")
+            .p-2
+                for item in podcastObj
+                    .card.mb-2
+                        .row.no-gutters
+                            .col-5.col-md-2.col-lg-2
+                                img.card-img(src=item.ImageUrl, alt="")
+                            .col-7.col-md-10.col-lg-10
+                                .card-body
+                                    .col-12.card-body-header
+                                        p.card-text #{item.Name}
+                                        span.card-text-label #{item.Artist}
+                                    .col-9.card-bottom-left
+                                        p.card-bottom-text #{item.Duration} | #{item.LabelName}
+                                    .col-3.card-bottom-right
+                                        a(href="#", style="float:right;")
+                                            i.fa.fa-paper-plane.rotate-45-right
+        .tab-pane.fade(id="search" role="tabpanel" aria-labelledby="search-tab")
+            .p-2
+                .card.mb-2
+                    .row.no-gutters
+                        .col-5.col-md-2.col-lg-2
+                            img.card-img(src="/images/shadhin.png", alt="")
+                        .col-7.col-md-10.col-lg-10
+                            .card-body
+                                .col-12.card-body-header
+                                    p.card-text Audio Song Header Text
+                                .col-9.card-bottom-left
+                                    p.card-bottom-text 4:03 | Gangchil
+                                .col-3.card-bottom-right
+                                    a(href="#", style="float:right;")
+                                        i.fa.fa-paper-plane.rotate-45-right
+
+                .card.mb-2
+                    .row.no-gutters
+                        .col-5.col-md-2.col-lg-2
+                            img.card-img(src="/images/shadhin.png", alt="")
+                        .col-7.col-md-10.col-lg-10
+                            .card-body
+                                .col-12.card-body-header
+                                    p.card-text Video Song Header Text
+                                .col-9.card-bottom-left
+                                    p.card-bottom-text 4:03 | Gangchil
+                                .col-3.card-bottom-right
+                                    a(href="#", style="float:right;")
+                                        i.fa.fa-paper-plane.rotate-45-right

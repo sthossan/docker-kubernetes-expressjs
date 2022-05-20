@@ -1,0 +1,74 @@
+1. npm i -g express-generator
+-- Then install the corresponding template engine npm package; for example to install Pug:
+-- For view installation
+2. express --view=pug viberchatex
+
+npm start
+
+3. npm i --save-dev nodemon
+   or
+   npm i -D nodemon
+
+"if [[ $NODE_ENV == 'production' ]]; then node ./bin/www; else nodemon ./bin/www; fi"
+
+npm run dev
+
+4. npm i bootstrap --save-dev
+5. npm i serve-favicon
+6. npm install --save-dev @fortawesome/fontawesome-free
+
+-- Populate views/layout.pug
+7. touch views/index.pug
+
+-- Add Live Reload to Express Using Browsersync
+8. npm i -D browser-sync
+9. browser-sync init
+
+
+-- db sequelize orm
+-- https://sequelize.org/docs/v6/getting-started/
+10. npm install --save sequelize
+
+11. npm i dotenv
+
+https://auth0.com/blog/create-a-simple-and-stylish-node-express-app/
+
+/////////////// data for presentation ///////////////
+
+
+SELECT T.[id] AS Id, T.[title] AS [Name], T.[artistAppearsAs] AS Artist
+, RIGHT(CONVERT(CHAR(8), DATEADD(SECOND, CAST(T.[duration] AS INT), 0), 108), 5) AS Duration
+, R.[labelName] AS LabelName
+, 'https://shadhin.s3-ap-southeast-1.amazonaws.com/upload2/Batch/' + REPLACE(R.[image], '<$size$>', '300') AS ImageUrl
+, 'https://shadhin.s3-ap-southeast-1.amazonaws.com/upload2/Batch/' + T.[streamUrl_mp3] AS PlayUrl
+FROM [dbo].[tbl_Track_Batch] AS T
+JOIN [dbo].[tbl_Release_Batch] AS R ON T.releaseId=R.id
+WHERE --T.[title]='Tumi Ki Shara Dibe' --AND T.[artistAppearsAs] = ''
+T.[id] IN('95925', '95656', '95280', '94839', '95907', '95955', '1533', '10999', '10839', '16734', '16953')
+
+---------------------------------------------------------
+SELECT V.[id] AS Id, V.[title] AS [Name], V.[artistAppearsAs] AS Artist
+, RIGHT(CONVERT(CHAR(8), DATEADD(SECOND, CAST(V.[duration] AS INT), 0), 108), 5) AS Duration
+, R.[labelName] AS LabelName
+, 'https://shadhin.s3-ap-southeast-1.amazonaws.com/upload2/Batch/' + V.[VideoPreview] AS ImageUrl
+, 'https://shadhin.s3-ap-southeast-1.amazonaws.com/upload2/Batch/' + V.[streamUrl_mp4] AS PlayUrl
+FROM [dbo].[tbl_Video_Batch] AS V
+JOIN [dbo].[tbl_ReleaseVideo] AS R ON V.[releaseId] = R.[id]
+WHERE V.[id] IN(
+'9294', '9510', '88171', '6850', '93434', '93465', '91138', '92127', '92170', '5628', '8763', '90001'
+, '92221', '93484', '93697', '93735', '94159', '94839', '95866', '28064', '28182', '3056', '10874', '17661')
+
+---------------------------------------------------------
+
+SELECT T.[Id], T.[Name], S.[SearchName] AS Artist
+, T.[Duration]
+, S.[ProductBy] AS LabelName
+, 'https://shadhin.s3-ap-southeast-1.amazonaws.com/upload2/Batch/' + REPLACE(T.[ImageUrl], '<$size$>', '300') AS ImageUrl
+, 'https://shadhin.s3-ap-southeast-1.amazonaws.com/upload2/Batch/' + T.[PlayUrl] AS PlayUrl
+FROM [dbo].[temp_tbl_PodcastTrack] AS T
+JOIN [dbo].[temp_tbl_PodcastEpisode] AS E ON T.[EpisodeId] = E.[Id]
+JOIN [dbo].[temp_tbl_PodcastShow] AS S ON T.[ShowId] = S.[Id]
+WHERE S.[ContentType] = 'SD' AND T.IsTakeUp = 1
+ORDER BY T.[Id]
+/////////////// data for presentation ///////////////
+
